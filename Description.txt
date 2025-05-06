@@ -1,0 +1,9 @@
+Matplotlib and Pandas
+Matplotlib will allow us to plot and see the graph
+Pandas will allow us to easily kind of categorize and search for data within our CSV file.
+
+
+if __name__ == "__main__":
+    main()
+Usage: Now the way that this works is that if we run this file directly this line will execute and we will call the main function. Whereas if we import this file this will not run because the name is not going to be main. 
+This is used to protect the code mostly so that we don't run the main function unless we directly execute the file.
